@@ -2,9 +2,6 @@
 
 
 
-
----
-
 🚀 Hello there! I'm Trinh Phu Thai, a second-year Computer Engineering student at Hanoi University of Science and Technology. I'm passionate about:  
 - 🌐 **Networking:** Exploring network architectures and secure communication protocols.  
 - 🧠 **Human Brain Signals:** Fascinated by brain-computer interfaces and neural signals processing.  
@@ -43,4 +40,4 @@
 
 ![Thaiphu_05's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiphu05&show_icons=true&theme=highcontrast)
 
---- 
+
