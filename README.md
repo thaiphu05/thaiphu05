@@ -2,7 +2,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thaiphu05&theme=highcontrast&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
 ---
 
