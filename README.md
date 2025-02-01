@@ -1,13 +1,17 @@
 # 🖥️ Thaiphu_05  
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thaiphu05&theme=highcontrast&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+
+---
+
 🚀 Hello there! I'm Trinh Phu Thai, a second-year Computer Engineering student at Hanoi University of Science and Technology. I'm passionate about:  
 - 🌐 **Networking:** Exploring network architectures and secure communication protocols.  
 - 🧠 **Human Brain Signals:** Fascinated by brain-computer interfaces and neural signals processing.  
 - 🤖 **AI Applications:** Bridging AI solutions in both Network and Brain Signal research.  
 
 💡 I thrive on exploring cutting-edge technologies and turning ideas into meaningful projects.  
-
----
 
 ### 🔗 Let's Connect  
 
@@ -29,21 +33,15 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />  
 
 ---
 
 ### 📊 GitHub Stats  
 
-![Thaiphu_05's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiphu05&show_icons=true&theme=gruvbox)
+![Thaiphu_05's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiphu05&show_icons=true&theme=highcontrast)
 
-<!-- Optional GitHub Streak -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=thaiphu05&theme=gruvbox&border_radius=4.5) -->
-
----
-
-### 💭 Fun Fact  
-Coding your life ! 😊  
+--- 
