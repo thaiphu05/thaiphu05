@@ -3,8 +3,7 @@
 
 
 🚀 Hello there! I'm Trinh Phu Thai, a second-year Computer Engineering student at Hanoi University of Science and Technology. I'm passionate about:  
-- 🌐 **Networking:** Exploring network architectures and secure communication protocols.  
-- 🧠 **Human Brain Signals:** Fascinated by brain-computer interfaces and neural signals processing.  
+- 🌐 **Networking and 5G:** Exploring network architectures and secure communication in 5G.  
 - 🤖 **AI Applications:** Bridging AI solutions in both Network and Brain Signal research.  
 
 💡 I thrive on exploring cutting-edge technologies and turning ideas into meaningful projects.  
