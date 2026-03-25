@@ -3,7 +3,7 @@
 
 
 🚀 Hello there! I'm Trinh Phu Thai, a third-year Computer Engineering student at Hanoi University of Science and Technology. I'm passionate about:  
-- 🌐 **Cloud Computing:** Exploring cloud architectures in real worldworld.  
+- 🌐 **Cloud Computing:** Exploring cloud architectures in real world.  
 - 🤖 **AI Applications:** Bridging AI solutions in both Wireless Communication and everyday life.  
 
 💡 I thrive on exploring cutting-edge technologies and turning ideas into meaningful projects.  
