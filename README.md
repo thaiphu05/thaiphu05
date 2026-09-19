@@ -52,10 +52,5 @@ I'm passionate about building intelligent speech systems and exploring how AI ca
 * FastAPI, Flask
 * Docker
 * Git & GitHub
-* Cloud Computing
+* Cloud Computing 
 
----
-
-### 📊 GitHub Stats
-
-![Thaiphu\_05's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiphu05\&show_icons=true\&theme=highcontrast)
